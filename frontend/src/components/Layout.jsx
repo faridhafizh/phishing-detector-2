@@ -69,7 +69,7 @@ function Layout() {
       {/* Footer */}
       <footer className="bg-emerald-600 border-t mt-auto flex-shrink-0">
         <div className="max-w-7xl mx-auto px-4 py-4 text-center text-gray-950 text-sm">
-          © 2026 Email Phishing Scanner - Internal Security Tool
+          © 2026 Email Phishing Scanner - Created by mentee Digistar
         </div>
       </footer>
     </div>

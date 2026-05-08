@@ -141,12 +141,12 @@ function ScanURL() {
             )}
 
             {/* Tips */}
-            <div className="bg-sky-50 border border-sky-200 rounded-lg p-4">
-              <h4 className="font-semibold text-sky-900 mb-2 flex items-center">
-                <AlertCircle className="h-4 w-4 mr-2" />
+            <div className="bg-gray-100 border border-gray-200 rounded-lg p-4">
+              <h4 className="font-semibold text-egray-950 mb-3 flex items-center">
+                <AlertCircle className="h-5 w-5 mr-2" />
                 Tips:
               </h4>
-              <ul className="text-sm text-sky-800 space-y-1">
+              <ul className="text-sm text-gray-950 space-y-2">
                 <li>• Paste URL dari SMS, email, atau media sosial untuk dicek</li>
                 <li>• Analisis menggunakan VirusTotal (70+ antivirus engines)</li>
                 <li>• Hasil berdasarkan database global threat intelligence</li>
